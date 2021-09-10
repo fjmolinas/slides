@@ -6,7 +6,7 @@ class: center, middle
 
 ---
 
-# What where we doing before?
+# What were we doing before?
 
 - [testrunner](https://github.com/RIOT-OS/RIOT/blob/master/dist/pythonlibs/testrunner/spawn.py)
 
